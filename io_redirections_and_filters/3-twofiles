@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd /etc/hosts
+cat /etc/passwd /etc/hosts #imprime lo que hay en los 2 archivos 
