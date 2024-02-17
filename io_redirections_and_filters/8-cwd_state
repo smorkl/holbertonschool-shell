@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_content
+ls -la > ls_cwd_content #use > ya que redirige la salida del comando ls -la a el archivo y sobreescribe  y si no existe lo crea
