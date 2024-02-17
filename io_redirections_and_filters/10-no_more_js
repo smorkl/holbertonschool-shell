@@ -1,1 +1,2 @@
-echo #!/bin/bash
+#!/bin/bash
+rm -rf $(find . -type f -name "*.js") #con find buscamos los archivos .js y con rm -rf eliminamos incluyendo subdirectorios 
