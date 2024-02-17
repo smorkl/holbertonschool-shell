@@ -1,1 +1,2 @@
-echo #!/bin/bash
+#!/bin/bash
+tr 'Ac' 'Ze' < /tmp/0x02$
