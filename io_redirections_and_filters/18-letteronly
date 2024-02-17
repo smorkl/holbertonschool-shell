@@ -1,2 +1,2 @@
 #!/bin/bash 19-AZ
-grep '^[A-Za-z]' nombre_del_archivo | grep -v '^[A-Za-z]' nombre_del_archivo
+grep '^[A-Za-z]' /etc/ssh/sshd_config | grep -v '^[A-Za-z]' /etc/ssh/sshd_config
