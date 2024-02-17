@@ -1,2 +1,4 @@
 #!/bin/bash
-[ guillaume = "$(stat -c %U hello)" ] $chown vincent hello
+[ $(stat -c %U hello) = "guillaume" ] chown vincent hello
+
+
