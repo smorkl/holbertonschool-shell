@@ -1,1 +1,3 @@
 #!/bin/bash
+cat /etc/passwd
+#uso el comando cat que me arroja la informacion que esta adentro 
