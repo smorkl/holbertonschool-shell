@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -mindepth 1 -type d | grep -c /
+#!/bin/bash                           #use find para buscar los archivos -mindepth 1 para que enpiese la busqueda 
+find . -mindepth 1 -type d | grep -c / #despues de la 1 linea, -type d conteo de directorios y subdirectorio , grep -c / cuenta las lineas
