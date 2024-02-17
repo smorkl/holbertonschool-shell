@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drwx--x--x dir0 dir1 dir2 
+chmod u+rwx,go+x dir0 dir1 dir2 
